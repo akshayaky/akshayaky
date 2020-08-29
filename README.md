@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on gIICa CLI IRC app and an auto evaluation system for club tasks.
+- 🔭 I’m currently working on gICCa CLI IRC app and an auto evaluation system for club tasks.
 - 🌱 I’m currently learning OpenGL, Concurrency, React, Django
 - 💬 Ask me about C/C++, Go, Python
 - 📫 How to reach me: send an email to [vvaakshay@gmail.com](vvaakshay@gmail.com)
