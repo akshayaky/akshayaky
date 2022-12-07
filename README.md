@@ -1,9 +1,5 @@
 ### Hey there 👋
 
-
-
-
-- 🔭 I’m currently working on a [plane game](https://github.com/akshayaky/plane_game) in Unity
 - 🌱 I’m currently learning Game Development, C#, C++
 - 💬 Ask me about C/C++, Go, Python, Game Developement
 - 📫 How to reach me: send an email to [vvaakshay@gmail.com](vvaakshay@gmail.com)
